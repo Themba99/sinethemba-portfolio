@@ -1,0 +1,7 @@
+[build]
+  publish = "src"
+  command = ""
+
+[settings]
+  # Optional: Set your site's default title
+  title = "Sinethemba Portfolio"
